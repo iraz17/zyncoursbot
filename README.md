@@ -1,5 +1,7 @@
 # zyncoursbot
 
+Le bot est actif sur ce canal: https://t.me/zynecointrading
+
 # DESCRIPTION
 
 Bot qui permet de données le cours de l'actif, le market cap, son volume et son rang. Sur un temps pré-définit.
